@@ -1,0 +1,22 @@
+{
+  "name": "telegram-bot-with-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "20.12.8",
+    "@types/node-telegram-bot-api": "0.64.6",
+    "tsx": "4.8.2",
+    "typescript": "5.4.5"
+  },
+  "dependencies": {
+    "dotenv": "16.4.5",
+    "node-telegram-bot-api": "0.65.1"
+  }
+}
